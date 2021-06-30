@@ -1,0 +1,6 @@
+.button2:hover{
+    background-color: aqua;
+    display: block;
+    justify-content: center;
+    border-radius: 20%;
+}
