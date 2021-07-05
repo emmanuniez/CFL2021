@@ -1,0 +1,45 @@
+.hero__container{
+    width: auto;
+    background-color:gray;
+    margin: 1%;
+    text-align: center;
+    padding: 1%;
+    border: green solid 2px;
+    
+}
+
+.hero__title{
+    color:black;
+}
+.hero__parrafo{
+    color:black;
+}
+
+
+
+.container2{
+    background-color:rgba(100, 99, 99, 0.808);
+    padding: 2%;
+    text-align:center;
+    margin: 2%;
+    border: indigo solid 4px;
+   
+}
+.container2__title{
+    color: burlywood;
+}
+.container2__parrafo{
+   text-align: center;
+   font-size: 1.2rem;
+}
+
+.container3{
+    background-color: lightcoral;
+    padding: 2%;
+    margin: 2%;
+    border: lightslategrey solid 6px;
+}
+.container3__parrafo{
+    font-style: italic;
+}
+
