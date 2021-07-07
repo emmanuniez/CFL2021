@@ -34,7 +34,7 @@ class Radio{
 
      mostarRadio(){
              console.log("la radio esta encendida",this.prenderApagar, "en el volumen", this.volumenActual, "en la emisora", this.emisoraActual)
-     }    
+        }   
 
 }
 

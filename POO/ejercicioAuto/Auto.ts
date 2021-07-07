@@ -32,5 +32,5 @@ class Auto{
 }
 
 class RegistroAutomotor{
-    
+
 }
