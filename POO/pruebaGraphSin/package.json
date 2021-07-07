@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "primer proyecto npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "graphSin": "cls && node usoDePKGAsciiChart.js"
+  },
+  "author": "MI",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "readline-sync": "^1.4.10"
+  }
+}

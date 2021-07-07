@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+h1,h2,h3{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
+
+.imagenes{
+    display: inline-flex;
+    border-bottom: 20px solid gray;
+    margin: 20px;
+}
+
+.centrado{
+   display: flex;
+   width: 500px;
+   justify-content: center;
+   align-items: center;
+}
+
+.img-centrada{
+   width: 300px;
+   justify-content: center;
+   align-items: center;
+   height: 300px ;
+}
